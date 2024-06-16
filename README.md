@@ -1,6 +1,6 @@
 # Product Management System - Frontend
 
-This repository contains the frontend implementation of the Product Management System developed as part of a .NET Developer Recruitment Task. The frontend is built using Angular and interacts seamlessly with the backend [API](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_BACKEND/tree/master) developed in ASP.NET Core Web API.
+Welcome to the repository for the Product Management System frontend. This project is part of the .NET Developer Recruitment Task, designed to manage products, variants, and orders. The frontend is built using Angular and communicates seamlessly with the backend API developed in ASP.NET Core Web API.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This repository contains the frontend implementation of the Product Management S
 
 ## Introduction
 
-The Product Management System allows users to manage products, variants, and orders. This repository contains the Angular frontend, which interacts with the backend API to provide a seamless user experience.
+The Product Management System allows users to efficiently manage products, their variants, and orders through an intuitive user interface. This repository contains the Angular-based frontend, which provides a responsive and dynamic user experience by interacting with the backend API.
 
 ## Technologies Used
 
@@ -24,20 +24,29 @@ The Product Management System allows users to manage products, variants, and ord
 ## Setup Instructions
 
 ### Prerequisites
-- Ensure you have Angular, Node.js and NPM installed.
+Before you begin, ensure that you have the following installed:
+- **Angular CLI**
+- **Node.js**
+- **NPM**
 
-## Project Setup
+### Project Setup
 
-### Prerequisites
-- Ensure the Back-end project is Downloaded from [Here](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_BACKEND/tree/master).
+1. **Backend Setup**: 
+   - Download and set up the backend project from [here](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_BACKEND/tree/master).
 
-### Clone the repository: git clone https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_FRONTEND.git
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_FRONTEND.git
+   
+3. **Install npm packages**: 
+   - Run this command: **npm install --force**    
 
-### Install npm packages: **npm install --force**
+4. **Start the application**: 
+   - Run this command: **ng serve -o --ssl false** 
+   
+4. **Run Backend API**: 
+   - Ensure the backend API is running simultaneously for full functionality.
 
-### Start the frontend application: **ng serve -o --ssl false**
-
-### Ensure the backend API is running simultaneously
 
 ## Additional Information
 
