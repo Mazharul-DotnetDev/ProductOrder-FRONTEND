@@ -36,7 +36,7 @@ Before you begin, ensure that you have the following installed:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_FRONTEND.git
+   git clone https://github.com/Mazharul-DotnetDev/ProductOrder-FRONTEND.git
    
 3. **Install npm packages**: 
    - Run this command: **npm install --force**    
