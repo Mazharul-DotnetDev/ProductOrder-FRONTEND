@@ -32,11 +32,10 @@ The Product Management System allows users to manage products, variants, and ord
 - Ensure the Back-end project is Downloaded from [Here](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_BACKEND/tree/master).
 
 ### Clone the repository: git clone https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_FRONTEND.git
-cd ProductOrder_CodersLab_FRONTEND
 
-### Install npm packages: npm install --force
+### Install npm packages: **npm install --force**
 
-### Start the frontend application: ng serve -o --ssl false
+### Start the frontend application: **ng serve -o --ssl false**
 
 ### Ensure the backend API is running simultaneously
 
