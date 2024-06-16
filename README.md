@@ -1,6 +1,6 @@
 # Product Management System - Frontend
 
-Welcome to the repository for the Product Management System frontend. This project is part of the .NET Developer Recruitment Task, designed to manage products, variants, and orders. The frontend is built using Angular and communicates seamlessly with the backend API developed in ASP.NET Core Web API.
+Welcome to the repository for the Product Management System frontend. This project is part of the .NET Developer Recruitment Task, designed to manage products, variants, and orders. The frontend is built using Angular and communicates seamlessly with the [backend API](https://github.com/Mazharul-DotnetDev/ProductOrder_CodersLab_BACKEND/tree/master) developed in ASP.NET Core Web API.
 
 ## Table of Contents
 
